@@ -1,4 +1,5 @@
-youtube_transcript_api
+pandas==1.5.0
+youtube-transcript-api==0.4.4
 streamlit
 google-generativeai
 python-dotenv
